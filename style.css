@@ -1,0 +1,104 @@
+.nav-row{
+    position:absolute;
+    padding-top: 40px;
+    color:black;
+    
+}
+h1{
+    position:absolute;
+    width:150px;
+    height:24;
+    left:76px;
+    top:24px;
+}
+button{
+    background-color: #3D5AFE;
+    color:#fff;
+    border-radius:4px;
+   
+}
+img{
+   
+}
+.rectangle{
+    width: 105px;
+    height: 96px;
+   
+    
+}
+.container{
+    padding-top: 40px;
+}
+
+.overview-list{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 16px 9px rgb(0 0 0 / 15%);
+    border-radius: 4px;
+    
+    
+   
+   
+}
+.icon-item{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 16px 9px rgb(0 0 0 / 15%);
+    border-radius: 4px;
+}
+h3{
+    padding-top: 40px;
+
+}
+i{
+    color:#fff
+   
+}
+.meals-showcase{
+    list-style-type: none;
+    width:100%;
+}
+.meals-showcase li{
+    display: block;
+    float:left;
+   
+}
+.meals-photo{
+    width:100%;
+    margin:0;
+
+}
+.meals-photo img{
+   
+    
+}
+.icon_top{
+    display: flex;
+    padding: 0px;
+}
+.img icon{
+    padding: 0px;
+    transform: translateY(-3em);
+    
+}
+.right_icon{
+    float:right;
+    text-align: right;
+   
+}
+.icon_bottom p{
+    float:right;
+}
+/*--BẢNG---*/
+.table-thead{
+    background-color: rgba(121, 126, 136, 0.267);
+    color: gray;
+}
+/*--NỘI DUNG TAI LÊN---*/
+.content-upload .box-image .container-img-left .img img{
+    position: absolute;
+    width:25%;
+}
+.container-img-right .img{
+    float :right;
+    border-style:none;
+}
+.
